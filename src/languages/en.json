@@ -1,0 +1,17 @@
+{
+    "profile": {
+        "rol": "Front-end Developer",
+        "description": "Almost a year of experience in web development. Passionate about new technologies and especially the CSS and JavaScript ecosystem. </br>  My purpose is to train myself constantly focusing on best practices in an updated way."
+    },
+    "experience": {
+        "first-job-title": "Back-end developer",
+        "first-job-dates": "January 2022 - November 2022",
+        "first-job-description": "Mauris porta, lectus quis mattis pharetra, odio neque pulvinar orci, malesuada dignissim massa metus vitae justo. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+        "second-job-title": "Front-end developer",
+        "second-job-dates": "January 2022 - November 2022",
+        "second-job-description": "Malesuada dignissim massa metus vitae justo. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+        "last-job-title": "Front-end developer",
+        "last-job-dates": "March 2022 - Currently",
+        "last-job-description": "Fusce euismod sapien ac odio varius volutpat. Donec bibendum facilisis magna ut interdum."
+    }
+}
