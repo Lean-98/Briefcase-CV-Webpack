@@ -1,5 +1,4 @@
-# Webpack Starter
-Este es el proyecto inicial para crear aplicaciones uitlizando webpack.
+# Briefcase Curriculum Vitae
 
 ### Notas:
 Recuerden reconstruir los módulos de Node
